@@ -1,0 +1,1 @@
+This repository contains the Datasets (versions 1.0, 1.1, 2.0, 3.0 and 3.1) and labeling Instructions related to the paper 'COVID-Stigma: A Dataset of Anti-Asian Stigmatizing Tweets During COVID-19'
