@@ -1,4 +1,4 @@
-**COVID-Stigma-A-Dataset-of-Anti-Asian-Stigmatizing-Tweets-During-COVID-19**
+**COVID-Stigma: A-Dataset-of-Anti-Asian-Stigmatizing-Tweets-During-COVID-19**
 
 This repository contains the Datasets (versions 1.0, 1.1, 2.0, 3.0 and 3.1) and labeling Instructions related to the paper 'COVID-Stigma: A Dataset of Anti-Asian Stigmatizing Tweets During COVID-19'. We present dataset version 3.0 containing 11,263 Tweets in the English language that are manually annotated into primary labels (_unknown/irrelevant, not-stigmatizing, stigmatizing-low, stigmatizing-medium, stigmatizing-high_) and Tweet sub-topics (for e.g., _wet market and eating habits, COVID-19 cases, bioweapon_, etc.). 
 
