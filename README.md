@@ -6,4 +6,4 @@ Further, we selected 5,000 Tweets from dataset version 3.0 and labeled them by a
 
 
 
-[1] Mokhberi M, Biswas A, Masud Z, Kteily-Hawa R, Goldstein A, Gillis JR, Rayana S, Ahmed SI Development of COVID-19-related Anti-Asian Tweet Dataset: A Quantitative Study JMIR Formative Research. 11/11/2022:40403 (forthcoming/in press) [DOI] (https://preprints.jmir.org/preprint/40403)
+[1] Mokhberi M, Biswas A, Masud Z, Kteily-Hawa R, Goldstein A, Gillis JR, Rayana S, Ahmed SI Development of COVID-19-related Anti-Asian Tweet Dataset: A Quantitative Study JMIR Formative Research. 11/11/2022:40403 (forthcoming/in press) [DOI](https://preprints.jmir.org/preprint/40403)
